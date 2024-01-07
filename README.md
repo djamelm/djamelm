@@ -28,3 +28,5 @@ I am a student at USTHB. I actively contribute to GitHub campaigns, such as 'Ten
 
 ![Status](https://github-readme-stats.vercel.app/api?username=djamelm&theme=blue-green)&nbsp;
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=djamelm&theme=blue-green)&nbsp;
+
+[![](https://visitcount.itsvg.in/api?id=djamelm&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
