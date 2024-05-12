@@ -30,3 +30,9 @@ I am a student at USTHB. I actively contribute to GitHub campaigns, such as 'Ten
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=djamelm&theme=blue-green)&nbsp;
 
 [![](https://visitcount.itsvg.in/api?id=djamelm&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+[![Visits Badge](https://badges.pufler.dev/visits/rhpo/rhpo)](#)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)]([https://twitter.com/](https://www.linkedin.com/in/djameleddinemekki/))
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-Informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/djameleddine.mekki/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/djameleddine-mekki)
+
